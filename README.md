@@ -53,5 +53,5 @@ Stakeholder yang sesuai dengan rekomendasi:
 3. Data realibility = Data Engineering, IT
 4. Peningkatan retensi : Customer Service
 
-Link dashboard : https://datastudio.google.com/reporting/df8c833e-c69d-447d-b7aa-434e6964b2b2
+Link dashboard : https://datastudio.google.com/reporting/df8c833e-c69d-447d-b7aa-434e6964b2b2<br>
 Link PPT : https://canva.link/twe90thw9fa8nvu
