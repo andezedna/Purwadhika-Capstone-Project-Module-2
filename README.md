@@ -48,7 +48,7 @@ Rekomendasi yang dapat diberikan ke stakeholder :
 5. Mengumpulkan ulasan atau tiket komplain untuk menemukan faktor-faktor repeat order user.
 
 Stakeholder yang sesuai dengan rekomendasi:
-Optimalisasi Budget Promo = Marketing
+1. Optimalisasi Budget Promo = Marketing
 2. Peningkatan SLA Logistik = Supply Chain Operations
 3. Data realibility = Data Engineering, IT
 4. Peningkatan retensi : Customer Service
